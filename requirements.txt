@@ -4,4 +4,4 @@ openai
 python-dotenv
 pandas
 openpyxl
-docx
+python-docx
